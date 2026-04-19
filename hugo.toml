@@ -1,0 +1,9 @@
+baseURL = 'https://sakshimaurya.me/'
+languageCode = 'en-us'
+title = 'Nascence'
+theme = "ananke"
+
+[params]
+  description = "The inception of ideas and aspirations"
+  author = "Sakshi"
+  show_reading_time = true
