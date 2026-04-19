@@ -2,7 +2,7 @@
 title: "Monsoon evening"
 date: 2020-09-23T13:22:22+05:30
 author: "Sakshi"
-categories: ["Excerpts"]
+categories: ["Verses"]
 tags: ["#evening #monsoon #father #dreams #sunset #rainbow #nature"]
 featured_image: "/images/uploads/2020/09/img_20200825_18190229925.html"
 ---

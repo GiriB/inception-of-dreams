@@ -2,7 +2,7 @@
 title: "Lifeless through seasons"
 date: 2021-05-15T18:35:40+05:30
 author: "Sakshi"
-categories: ["Excerpts"]
+categories: ["Verses"]
 tags: ["#life", "#longing", "#poetry", "#prose"]
 featured_image: "/images/uploads/2021/05/cymera_20210515_181951-164a6.jpg"
 ---

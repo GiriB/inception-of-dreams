@@ -2,7 +2,7 @@
 title: "Irreversible"
 date: 2020-06-14T00:20:24+05:30
 author: "Sakshi"
-categories: ["Excerpts"]
+categories: ["Verses"]
 tags: ["Moving on", "Nostalgia", "Past", "Scars"]
 ---
 

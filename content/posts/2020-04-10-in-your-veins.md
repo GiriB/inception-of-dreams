@@ -2,7 +2,7 @@
 title: "In your veins"
 date: 2020-04-10T19:52:19+05:30
 author: "Sakshi"
-categories: ["Excerpts"]
+categories: ["Verses"]
 featured_image: "/images/uploads/2020/04/img_20200410_1717002dff.jpg"
 ---
 

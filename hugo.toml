@@ -7,3 +7,18 @@ theme = "ananke"
   description = "The inception of ideas and aspirations"
   author = "Sakshi"
   show_reading_time = true
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 1
+
+[[menu.main]]
+  name = "Verses"
+  url = "/categories/verses/"
+  weight = 2
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 3

@@ -2,7 +2,7 @@
 title: "Silhouette"
 date: 2020-04-10T19:46:29+05:30
 author: "Sakshi"
-categories: ["Excerpts"]
+categories: ["Verses"]
 featured_image: "/images/uploads/2020/04/img_20200113_12344429925.jpg"
 ---
 
